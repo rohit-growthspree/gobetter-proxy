@@ -1,3 +1,10 @@
-"dependencies": {
-  "axios": "^0.27.2"
+{
+  "name": "gobetter-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
 }
